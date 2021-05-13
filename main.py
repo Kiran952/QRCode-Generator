@@ -7,5 +7,5 @@ url.svg("myyoutube.svg",scale=8)
 
 #scale = dimensions for code
 #SVG stands for scalable vector graphics, and it is a file format
-# that allows you to display vector images on your website
+# this allows you to display vector images on your website
 
